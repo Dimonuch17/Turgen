@@ -1,0 +1,171 @@
+@media screen and (max-width: 1200px) {
+	.price__list {
+		font-size: 13px;
+		padding: 6px 3px;
+	}
+	.price__resolution {
+		font-size: 13px;
+	}
+	tr, td {
+		font-size: 13px;
+	}
+	.appli__img {
+		width: 100%;
+	}
+	.footer__wrap {
+		margin-left: 85px;
+	}
+	.footer img {
+		right: 0;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.offer__title {
+		font-size: 40px;
+	}
+	.about__title {
+		font-size: 25px;
+		width: 290px;
+	}
+	.title:before {
+		height: 69px;
+		right: 20px;
+	}
+	.title:after {
+		width: 248px;
+	}
+	.about__text p {
+		margin: 0;
+		margin-bottom: 12px;
+		line-height: 1.4em;
+	}
+	.filling__title {
+		width: 100%;
+		font-size: 16px;
+	}
+	.filling {
+		padding-top: 180px;
+	}
+	.advantages__title {
+		font-size: 25px;
+		width: 291px;
+	}
+	.advan__text {
+		font-size: 15px;
+	}
+	.advan__img {
+		padding: 5px;
+		margin-right: 25px;
+	}
+	.advan__img img {
+		width: 25px;
+		height: 25px;
+	}
+	.advan__item {
+		margin-bottom: 25px;
+	}
+	.advan__list {
+		margin-left: 0;
+		margin-bottom: 45px;
+	}
+	.appli__img {
+		width: 100%;
+		height: 100%;
+	}
+	.application__title_obl {
+		font-size: 25px;
+		width: 377px;
+		margin-top: 65px;
+	}
+	.application__title_obl:after {
+		width: 335px;
+	}
+	.appli__item {
+		font-size: 16px;
+	}
+	.price {
+		padding-top: 100px;
+	}
+	.price__title {
+		font-size: 25px;
+	}
+	.price__title:after {
+		width: 138px;
+	}
+	table {
+		display: none;
+	}
+	.tabl__first,
+	.tabl__last {
+		display: block;
+	}
+	.instr__title img {
+		width: 30px;
+		height: 30px;
+	}
+	.instr__title {
+		font-size: 18px;
+		margin-left: 0;
+		width: 284px;
+	}
+	.instr__item, 
+	.instr__item:after,
+	.instr__item:before {
+		width: 60px;
+		height: 60px;
+	}
+	.instr__item {
+		margin-right: 100px;
+	}
+	.form {
+		width: 413px;
+		margin-left: 40px;
+		margin: 103px auto 68px
+	}
+	.form__title {
+		font-size: 25px;
+	}
+	.form input, textarea,
+	.form__btn {
+		width: 295px;
+	}
+	.footer__form {
+		height: 100%;
+	}
+	.input__text, .textarea__text,
+	.footer__credits p {
+		font-size: 14px;
+	}
+	.footer__wrap {
+		margin-left: 30px;
+		margin-top: 195px;
+	}
+	.footer-img {
+		width: 70px;
+		height: 60px;
+	}
+	.footer img {
+		right: 22%;
+		bottom: 11px;
+	}
+	.footer__credits {
+		padding-bottom: 15px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.logo {
+		font-size: 35px;	
+	}
+	.menu__link {
+		font-size: 16px;	
+	}
+	.nav-menu {
+		padding-top: 13px;
+	}
+	.offer__title {
+		font-size: 30px;
+		margin-bottom: 30px;
+	}
+}
